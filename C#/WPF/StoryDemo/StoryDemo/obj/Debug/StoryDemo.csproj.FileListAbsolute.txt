@@ -25,3 +25,6 @@ D:\vsprojects\StoryDemo\StoryDemo\obj\Debug\StoryDemo.pdb
 D:\vsprojects\StoryDemo\StoryDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
 D:\vsprojects\StoryDemo\StoryDemo\obj\Debug\StoryDemo_MarkupCompile.lref
 D:\vsprojects\StoryDemo\StoryDemo\obj\Debug\App.baml
+E:\Codelib\C#\WPF\StoryDemo\StoryDemo\bin\Debug\StoryDemo.exe.config
+E:\Codelib\C#\WPF\StoryDemo\StoryDemo\obj\Debug\StoryDemo.exe
+E:\Codelib\C#\WPF\StoryDemo\StoryDemo\obj\Debug\StoryDemo.pdb

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\vsprojects\StoryDemo\StoryDemo\obj\Debug\
+E:\Codelib\C#\WPF\StoryDemo\StoryDemo\obj\Debug\
 StoryDemo
 none
 false
 DEBUG;TRACE
-D:\vsprojects\StoryDemo\StoryDemo\App.xaml
+E:\Codelib\C#\WPF\StoryDemo\StoryDemo\App.xaml
 2-305478085
 
 131177600530
-161411237918
+16-2108782034
 Modules\Storyboard\StoryView.xaml;ShellView.xaml;
 
-False
+True
 
