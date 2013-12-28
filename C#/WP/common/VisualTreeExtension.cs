@@ -124,7 +124,7 @@ namespace GestureDemo
       /// <returns></returns>
       public static IEnumerable<T> GetChildrenByType<T>(this DependencyObject element) where T : FrameworkElement
       {
-          return element.GetVisualChildren().OfType<T>();
+           return element.GetLogicalChildrenBreadthFirst().OfType<T>();
       }
     #endregion
   }
