@@ -1,0 +1,5 @@
+D:\VSProjects\DatabaseDemo\RespositoryDemo\bin\Debug\RespositoryDemo.dll
+D:\VSProjects\DatabaseDemo\RespositoryDemo\bin\Debug\RespositoryDemo.pdb
+D:\VSProjects\DatabaseDemo\RespositoryDemo\obj\Debug\RespositoryDemo.csprojResolveAssemblyReference.cache
+D:\VSProjects\DatabaseDemo\RespositoryDemo\obj\Debug\RespositoryDemo.dll
+D:\VSProjects\DatabaseDemo\RespositoryDemo\obj\Debug\RespositoryDemo.pdb
